@@ -15,14 +15,14 @@ pygmentsUseClasses = true # new add
 
 [params] # theme parameters
     #@@author = "zzzz" # Author's name.
-    info = "WEB AND APPS ENGINEER" # Author's job title or info.
-     #@@description = "zzzz" # Site description.
+    info = "MACHINE LEARNING ENGINEER" # Author's job title or info.
+    #@@description = "zzzz" # Site description.
     keywords = "blog,developer,personal" # Site keywords.
     avatarurl = "images/avatar.jpg" # Contain the path of the optionnal avatar in the static folder.
 
     footercontent = "Enter a text here." # Add footer content
-    fixedbarContent = "Do you want to know me more private?→" # Add fixedbar content
-    fixedbarContentAfter = "Thank You! Please share it if you like it→" # Add fixedbar content after click
+    #@@fixedbarContent = "Do you want to know me more private?→" # Add fixedbar content
+    #@@fixedbarContentAfter = "Thank You! Please share it if you like it→" # Add fixedbar content after click
 
     # Whether you want to hide copyright and credits in the footer.
     hideCredits = false
