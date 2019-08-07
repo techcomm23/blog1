@@ -1,0 +1,6 @@
+[submodule "themes/my-theme"]
+	path = themes/my-theme
+	#@@url = https://github.com/
+[submodule "themes/theme1"]
+	path = themes/theme1
+	#@@url = https://github.com/
