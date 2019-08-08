@@ -1,4 +1,4 @@
-baseurl = "http://www.example.com" 
+baseurl = "http://1mod.s3-website-us-west-2.amazonaws.com" 
 title = "My portfolio" # Site title.
 theme = "theme1" # Set the theme.
 languagecode = "en" # The site’s language code used to generate RSS.
